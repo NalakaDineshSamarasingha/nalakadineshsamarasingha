@@ -27,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalakadineshsamarasingha&show_icons=true&locale=en" alt="nalakadineshsamarasingha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nalakadineshsamarasingha&" alt="nalakadineshsamarasingha" [![An image of @nalakadineshsamarasingha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nalakadineshsamarasingha)](https://holopin.io/@nalakadineshsamarasingha)
-
+## Holopin Badge Board
+[![An image of Holopin badges, which is a digital badge platform](https://holopin.me/nalakadinesh)](https://holopin.io/@nalakadinesh)
