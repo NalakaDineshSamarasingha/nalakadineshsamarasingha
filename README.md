@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalakadineshsamarasingha&show_icons=true&locale=en" alt="nalakadineshsamarasingha" /></p>
 
 ## Holopin Badge Board
-[![An image of Holopin badges, which is a digital badge platform](https://holopin.me/nalakadinesh)](https://holopin.io/@nalakadinesh)
+[![An image of Holopin badges, which is a digital badge platform](https://holopin.me/nalakadineshsamarasingha)](https://holopin.me/nalakadineshsamarasingha)
