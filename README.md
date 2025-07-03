@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nalakadineshsamarasingha&label=Profile%20views&color=0e75b6&style=flat" alt="nalakadineshsamarasingha" /> </p>
 
+<table>
+  <td>
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **Carpooling Mobile App**
@@ -21,10 +23,7 @@
 
 </td>
 <td width="50%" align="center">
-
   <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
   </td>
 </tr>
 </table>
@@ -40,8 +39,8 @@
 
 ### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,python,mongodb,mysql,ballerina,js,ts,git,github" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,python,mongodb,mysql,js,ts,git,github" />
 </p>
 ---
 
