@@ -7,7 +7,7 @@
 
 <table>
   <td>
-### 🧠 About Me
+🧠 About Me
 
 - 🔭 I’m currently working on **Carpooling Mobile App**
 
@@ -37,7 +37,7 @@
 <a href="https://www.leetcode.com/nalaka dinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nalaka dinesh" height="30" width="40" /></a>
 </p>
 
-### 💻 Tech Stack
+<p align="center"> 💻 Tech Stack</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,python,mongodb,mysql,js,ts,git,github" />
