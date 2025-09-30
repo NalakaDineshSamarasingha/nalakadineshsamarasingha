@@ -9,7 +9,7 @@
   <td>
 🧠 About Me
 
-- 🔭 I’m currently working on **Carpooling Mobile App**
+- 🔭 I’m currently working on **SpendWise Mobile App**
 
 - 🌱 I’m currently learning **Algorithms, Part I By Princeton University**
 
@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,python,mongodb,mysql,js,ts,git,github" />
 </p>
----
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
