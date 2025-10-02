@@ -61,6 +61,8 @@
 </tr>
 </table>
 
+[![An image of @nalakadineshsamarasingha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nalakadineshsamarasingha)](https://holopin.io/@nalakadineshsamarasingha)
+
 ### 🚀 Contributions & Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NalakaDineshSamarasingha&theme=github-compact)
