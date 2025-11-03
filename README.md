@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Algorithms, Part I By Princeton University**
 
-- 👨‍💻 All of my projects are available at [https://nalaka.netlify.app/](https://nalaka.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nalaka.online/](https://nalaka.online)
 
 - 💬 Ask me about **Full Stack Development**
 
